@@ -3,7 +3,7 @@
   <br>
   <br>
   <samp>Hi! 
-    <br>I'm <a href="https://https://www.marwengamha.me/">Marwen</a>.
+    <br>I'm <a href="https://www.marwengamha.me">Marwen</a>.
     <br>I am a <ins>Junior Full Stack Developer.</ins>
     <br>I build interactive, user-friendly, feature-rich websites & web applications. 
     <br>
